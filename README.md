@@ -114,6 +114,8 @@ Select your Android device in Android Studio.
 Click:
 
 ▶ Run
+
+
 ⚙️ Setup
 
 After installing the application, grant the required permissions.
