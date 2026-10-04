@@ -264,11 +264,14 @@ Potential improvements include:
 🔔 Custom notifications
 🧠 Smarter transition detection
 ⚙️ Per-location sound profiles
+
+
+
 🎯 Why I Built This
 
 Auto Ringer was built around a simple everyday problem:
 
-Why should I have to remember to change my phone's sound mode when my location already tells me what mode I need?
+> Why should I have to remember to change my phone's sound mode when my location already tells me what mode I need?
 
 Instead of relying on reminders or manually switching modes, this project explores how Android location services can be used to automate a small but useful part of everyday life.
 
@@ -287,7 +290,6 @@ Local data persistence
 🧑‍💻 Author
 
 Nitya
-
 B.Tech CSE (AI & ML) Student
 
 ⭐ Support
